@@ -1,10 +1,10 @@
 export const towns = [
   { name: 'Oxford', slug: 'oxford', businesses: 0 },
-  { name: 'Taylor', slug: 'taylor', businesses: 0 },
   { name: 'Abbeville', slug: 'abbeville', businesses: 0 },
-  { name: 'Como', slug: 'como', businesses: 0 },
+  { name: 'Taylor', slug: 'taylor', businesses: 0 },
+  { name: 'Water Valley', slug: 'water-valley', businesses: 0 },
   { name: 'Harmontown', slug: 'harmontown', businesses: 0 },
-  { name: 'Tula', slug: 'tula', businesses: 0 },
+  { name: 'College Hill', slug: 'college-hill', businesses: 0 },
 ];
 
 export const categories = [
